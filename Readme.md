@@ -3,6 +3,9 @@
  
  Este é um repositorio teste para ensinar como o  git Funciona.
 
- Saiba mais em (https://git-scm.com/doc).
+ Saiba mais nos seguintes links 
+  - (https://git-scm.com/doc).
+  - (https://git-scm.com/book/pt-br/v2).
+  - (https://www.katacoda.com/courses/git). 
 
- Aprenda mais em ( https://www.katacoda.com/courses/git) 
+ 
